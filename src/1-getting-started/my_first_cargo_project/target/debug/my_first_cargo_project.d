@@ -1,1 +1,0 @@
-/home/lukalakuka/Courses/Learn-Rust/src/1-getting-started/my_first_cargo_project/target/debug/my_first_cargo_project: /home/lukalakuka/Courses/Learn-Rust/src/1-getting-started/my_first_cargo_project/src/main.rs
